@@ -210,8 +210,8 @@ Author
 Gauri Borse
 Aspiring Data Analyst | Power BI | Python | Machine Learning
 
-LinkedIn: https://linkedin.com/in/your-profile
-GitHub: https://github.com/your-username
+LinkedIn: https://www.linkedin.com/in/gauri-borse-data-analyst/
+GitHub: https://github.com/Gaurii15
 
 Support
 
