@@ -174,7 +174,6 @@ Standard Class contributes the largest share of delayed deliveries due to higher
 
 ```text
 Shipment-Risk-Analysis/
-├── app/
 ├── dashboards/
 ├── data/
 ├── Images/
@@ -182,8 +181,6 @@ Shipment-Risk-Analysis/
 ├── notebooks/
 ├── reports/
 ├── requirements.txt
-├── LICENSE
-└── README.md
 
 Project Files
 Jupyter Notebook for end-to-end analysis
